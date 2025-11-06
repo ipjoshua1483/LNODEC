@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Lyapunov Neural ODE State-Feedback Control Policies"
+authors:
+  - family-names: "Ip"
+    given-names: "Joshua Hang Sai"
+    affiliation: "University of California, Berkeley"
+  - family-names: "Makrygiorgos"
+    given-names: "Georgios"
+    affiliation: "University of California, Berkeley"
+  - family-names: "Mesbah"
+    given-names: "Ali"
+    affiliation: "University of California, Berkeley"
+version: "1.0.0"
+date-released: "2024-08-31"
+doi: "10.48550/arXiv.2409.00393"
+repository-code: "https://github.com/ipjoshua1483/LNODEC"
+license: "MIT"
+keywords:
+  - neural ODE
+  - Lyapunov control
+  - deep learning
+  - optimal control
+preferred-citation:
+  type: article
+  title: "Lyapunov Neural ODE State-Feedback Control Policies"
+  authors:
+    - family-names: "Ip"
+      given-names: "Joshua Hang Sai"
+    - family-names: "Makrygiorgos"
+      given-names: "Georgios"
+    - family-names: "Mesbah"
+      given-names: "Ali"
+  journal: "arXiv preprint arXiv:2409.00393"
+  year: 2024
+  doi: "10.48550/arXiv.2409.00393"
