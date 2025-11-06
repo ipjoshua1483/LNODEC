@@ -8,7 +8,7 @@ Install required dependencies with  `pip install -r requirements.txt`.
 This repo uses `.ipynb` files for visualization and it is assumed the user has a valid environment for them.
 
 ## Demo
-To obtain the plots in the paper, open `example_double_integrator.ipynb` and click `Run all`. 
+To obtain the results for the double integrator case study in the paper, open `example_double_integrator.ipynb` and click `Run all`. 
 
 ## Reference
 If you found this paper helpful, please consider citing our work:
